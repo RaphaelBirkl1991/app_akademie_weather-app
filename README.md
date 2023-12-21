@@ -1,7 +1,7 @@
-# weather_app
+# weather_app   
 
 
-![Logo App Akademie](app_akademie_logo.png)
+![Logo App Akademie](app_akademie_logo.png)  
 
 
 
