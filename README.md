@@ -6,4 +6,4 @@
 
 <br>
 
-The weather app is an simple app to showcase the weather. The app was build in one of my lessons.  
+Not much to see here, this is just a tasksheet from one of my lessons.
